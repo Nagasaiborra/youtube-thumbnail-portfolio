@@ -166,7 +166,7 @@ export default function Home() {
                 <div className="flex items-center justify-center lg:justify-start gap-3 border-t border-slate-800/80 pt-6 mt-6">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
-                    src="/images/designer_profile.png"
+                    src="/images/designer_profile.jpg"
                     alt="Naga Sai"
                     className="h-12 w-12 rounded-full border-2 border-brand-primary object-cover"
                   />
@@ -798,7 +798,7 @@ export default function Home() {
                 <div className="relative overflow-hidden rounded-2xl border border-slate-800 bg-brand-card p-4">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
-                    src="/images/designer_profile.png"
+                    src="/images/designer_profile.jpg"
                     alt="Naga Sai Professional Headshot"
                     className="w-full aspect-square object-cover rounded-xl"
                   />
